@@ -5,8 +5,8 @@
 * Location: Mogilev, Belarus
 * Phone number: +375445601012
 * Email: arturiorbalidi01052005@gmail.com
-* GitHub: https://github.com/Arthur-Iorbalidi
-* Telegram: https://t.me/Arturiorbalidi
+* GitHub: [https://github.com/Arthur-Iorbalidi](https://github.com/Arthur-Iorbalidi)
+* Telegram: [https://t.me/Arturiorbalidi](https://t.me/Arturiorbalidi)
 
 ## About Me
 
