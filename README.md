@@ -7,6 +7,7 @@
 * Email: arturiorbalidi01052005@gmail.com
 * GitHub: https://github.com/Arthur-Iorbalidi
 * Telegram: https://t.me/Arturiorbalidi
+
 ## About Me
 
 I am a student of the Belarusian-Russian University on specialization Software engineering. I am also studying English now. I love sports especially basketball. And I want to improve my front-end development skills.
