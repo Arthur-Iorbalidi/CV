@@ -14,18 +14,22 @@ I am a student of the Belarusian-Russian University on specialization Software e
 
 ## Skills
 
-* JS/TS
+* JavaScript/TypeScript
+* React
+* Redux, Redux Toolkit
 * HTML
 * CSS(SASS)
-* Webpack
+* Webpack, Vite
 * Git
 * C#
-* SQL
+* MySQL
 
 ## Projects
 
 * [Coffee house](https://arthur-iorbalidi.github.io/CoffeeHouse/coffee-house/html/index.html)
 * [English Puzzle](https://arthur-iorbalidi.github.io/EnglishPuzzle/rss-puzzle/dist/)
+* [eCommerce-Application](https://github.com/Arthur-Iorbalidi/eCommerce-Application)
+* [Async-Race](https://github.com/Arthur-Iorbalidi/Async-Race)
 * [Hangman game](https://arthur-iorbalidi.github.io/Hangman/html/index.html)
 * [Nonograms game](https://arthur-iorbalidi.github.io/Nonograms/nonograms/html/index.html)
 * [Image galery](https://arthur-iorbalidi.github.io/ImageGalery/)
@@ -36,5 +40,5 @@ I am a student of the Belarusian-Russian University on specialization Software e
 
 * Cource: RSSchool JS / FRONT-END. STAGE 0
 * Cource: RSSchool JS / FRONT-END. STAGE 1/2
-* Univercity: Belarusian-Russian Univercity, Program engineering
-* English cource: ASPECT english school on level A2+
+* Univercity: Belarusian-Russian Univercity, Software engineering
+* English: B1
