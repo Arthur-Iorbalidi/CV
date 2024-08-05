@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a student of the Belarusian-Russian University on specialization Software engineering. I am also studying English now. I love sports especially basketball. And I want to improve my front-end development skills.
+I am a student of the Belarusian-Russian University majoring Software engineering. I am also studying English now. I love sports especially basketball. And I want to improve my front-end development skills.
 
 ## Skills
 
@@ -28,13 +28,13 @@ I am a student of the Belarusian-Russian University on specialization Software e
 
 * [Coffee house](https://arthur-iorbalidi.github.io/CoffeeHouse/coffee-house/html/index.html)
 * [English Puzzle](https://arthur-iorbalidi.github.io/EnglishPuzzle/rss-puzzle/dist/)
-* [eCommerce-Application](https://github.com/Arthur-Iorbalidi/eCommerce-Application)
-* [Async-Race](https://github.com/Arthur-Iorbalidi/Async-Race)
-* [Fun-Chat](https://github.com/Arthur-Iorbalidi/Fun-Chat/)
 * [Hangman game](https://arthur-iorbalidi.github.io/Hangman/html/index.html)
 * [Nonograms game](https://arthur-iorbalidi.github.io/Nonograms/nonograms/html/index.html)
 * [Image galery](https://arthur-iorbalidi.github.io/ImageGalery/)
 * [Music player](https://arthur-iorbalidi.github.io/MusicPlayer/)
+* [eCommerce-Application](https://code-crafters-ecommerce.netlify.app/)
+* [Async-Race](https://github.com/Arthur-Iorbalidi/Async-Race)
+* [Fun-Chat](https://github.com/Arthur-Iorbalidi/Fun-Chat/)
 * [Library](https://arthur-iorbalidi.github.io/Library/)
 
 ## Education
