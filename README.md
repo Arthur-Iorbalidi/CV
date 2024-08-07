@@ -22,7 +22,7 @@ I am a student of the Belarusian-Russian University majoring Software engineerin
 * Webpack, Vite
 * Git
 * C#
-* MySQL
+* SQL
 
 ## Projects
 
