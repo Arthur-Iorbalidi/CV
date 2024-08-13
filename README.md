@@ -17,6 +17,7 @@ I am a student of the Belarusian-Russian University majoring Software engineerin
 * JavaScript/TypeScript
 * React
 * Redux, Redux Toolkit
+* Angular
 * HTML
 * CSS(SASS)
 * Webpack, Vite
