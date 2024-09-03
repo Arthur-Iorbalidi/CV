@@ -5,9 +5,9 @@
 * Location: Mogilev, Belarus
 * Phone number: +375445601012
 * Email: arturiorbalidi01052005@gmail.com
-* GitHub: [https://github.com/Arthur-Iorbalidi](https://github.com/Arthur-Iorbalidi)
-* Telegram: [https://t.me/Arturiorbalidi](https://t.me/Arturiorbalidi)
-* LinkedIn: [https://www.linkedin.com/in/arthur-iorbalidi-094340309/]
+* GitHub: https://github.com/Arthur-Iorbalidi
+* Telegram: https://t.me/Arturiorbalidi
+* LinkedIn: https://www.linkedin.com/in/arthur-iorbalidi-094340309
 
 ## About Me
 
@@ -40,7 +40,7 @@ Software engineer specializing in frontend development. Constantly improving my 
 
 ## Education
 
-* Univercity: Belarusian-Russian Univercity, Software engineering
+* Univercity: Belarusian-Russian Univercity, Software engineering, 3rd year student
 
 ## CERTIFICATIONS
 
