@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a student of the Belarusian-Russian University majoring Software engineering. I am also studying English now. I love sports especially basketball. And I want to improve my front-end development skills.
+Software engineer specializing in frontend development. Constantly improving my skills and exploring new technologies.
 
 ## Skills
 
@@ -19,7 +19,7 @@ I am a student of the Belarusian-Russian University majoring Software engineerin
 * Redux, Redux Toolkit
 * Angular
 * HTML
-* CSS(SASS)
+* CSS(SСSS)
 * Webpack, Vite
 * Git
 * C#
@@ -27,7 +27,6 @@ I am a student of the Belarusian-Russian University majoring Software engineerin
 
 ## Projects
 
-* [Coffee house](https://arthur-iorbalidi.github.io/CoffeeHouse/coffee-house/html/index.html)
 * [English Puzzle](https://arthur-iorbalidi.github.io/EnglishPuzzle/rss-puzzle/dist/)
 * [Hangman game](https://arthur-iorbalidi.github.io/Hangman/html/index.html)
 * [Nonograms game](https://arthur-iorbalidi.github.io/Nonograms/nonograms/html/index.html)
@@ -36,11 +35,17 @@ I am a student of the Belarusian-Russian University majoring Software engineerin
 * [eCommerce-Application](https://code-crafters-ecommerce.netlify.app/)
 * [Async-Race](https://github.com/Arthur-Iorbalidi/Async-Race)
 * [Fun-Chat](https://github.com/Arthur-Iorbalidi/Fun-Chat/)
-* [Library](https://arthur-iorbalidi.github.io/Library/)
+* [Coffee house](https://arthur-iorbalidi.github.io/CoffeeHouse/coffee-house/html/index.html)
 
 ## Education
 
-* Cource: RSSchool JS / FRONT-END. STAGE 0
-* Cource: RSSchool JS / FRONT-END. STAGE 1/2
 * Univercity: Belarusian-Russian Univercity, Software engineering
-* English: B1
+
+## CERTIFICATIONS
+
+RS School JS/Front-end - [certificate](https://app.rs.school/certificate/617gxi8s)
+
+## LANGUAGES
+
+* English - B1
+* Russian - Native
