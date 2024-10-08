@@ -25,9 +25,11 @@ Software engineer specializing in frontend development. Constantly improving my 
 * Git
 * C#
 * SQL
+* Unit testing(Jest)
 
 ## Projects
 
+* [Museum of Art](https://museum-of-art.netlify.app)
 * [English Puzzle](https://arthur-iorbalidi.github.io/EnglishPuzzle/rss-puzzle/dist/)
 * [Hangman game](https://arthur-iorbalidi.github.io/Hangman/html/index.html)
 * [Nonograms game](https://arthur-iorbalidi.github.io/Nonograms/nonograms/html/index.html)
