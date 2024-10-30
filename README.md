@@ -34,13 +34,13 @@ Software engineer specializing in frontend development. Constantly improving my 
 
 ### Museum of Art
 * [Deploy](https://museum-of-art.netlify.app)
-* [Repo](https://github.com/Arthur-Iorbalidi/Museum-of-Art)
+* [Repository](https://github.com/Arthur-Iorbalidi/Museum-of-Art)
 ### eCommerce-Application
 * [Deploy](https://code-crafters-ecommerce.netlify.app/)
-* [Repo](https://github.com/Arthur-Iorbalidi/eCommerce-Application)
+* [Repository](https://github.com/Arthur-Iorbalidi/eCommerce-Application)
 ### English Puzzle
 * [Deploy](https://arthur-iorbalidi.github.io/EnglishPuzzle/rss-puzzle/dist/)
-* [Repo](https://github.com/Arthur-Iorbalidi/EnglishPuzzle)
+* [Repository](https://github.com/Arthur-Iorbalidi/EnglishPuzzle)
 ### Hangman game
 * [Deploy](https://arthur-iorbalidi.github.io/Hangman/html/index.html)
 ### Nonograms game
@@ -50,9 +50,9 @@ Software engineer specializing in frontend development. Constantly improving my 
 ### Music player
 * [Deploy](https://arthur-iorbalidi.github.io/MusicPlayer/)
 ### Async-Race
-* [Repo](https://github.com/Arthur-Iorbalidi/Async-Race)
+* [Repository](https://github.com/Arthur-Iorbalidi/Async-Race)
 ### Fun-Chat
-* [Repo](https://github.com/Arthur-Iorbalidi/Fun-Chat/)
+* [Repository](https://github.com/Arthur-Iorbalidi/Fun-Chat/)
 ### Coffee house
 * [Deploy](https://arthur-iorbalidi.github.io/CoffeeHouse/coffee-house/html/index.html)
 
