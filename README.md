@@ -30,32 +30,6 @@ Software engineer specializing in frontend development. Constantly improving my 
 * Unit testing(Jest)
 * C#
 
-## Projects
-
-### Museum of Art
-* [Deploy](https://museum-of-art.netlify.app)
-* [Repository](https://github.com/Arthur-Iorbalidi/Museum-of-Art)
-### eCommerce-Application
-* [Deploy](https://code-crafters-ecommerce.netlify.app/)
-* [Repository](https://github.com/Arthur-Iorbalidi/eCommerce-Application)
-### English Puzzle
-* [Deploy](https://arthur-iorbalidi.github.io/EnglishPuzzle/rss-puzzle/dist/)
-* [Repository](https://github.com/Arthur-Iorbalidi/EnglishPuzzle)
-### Hangman game
-* [Deploy](https://arthur-iorbalidi.github.io/Hangman/html/index.html)
-### Nonograms game
-* [Deploy](https://arthur-iorbalidi.github.io/Nonograms/nonograms/html/index.html)
-### Image-galery-Angular
-* [Deploy](https://image-galery-angular.netlify.app/)
-### Music player
-* [Deploy](https://arthur-iorbalidi.github.io/MusicPlayer/)
-### Async-Race
-* [Repository](https://github.com/Arthur-Iorbalidi/Async-Race)
-### Fun-Chat
-* [Repository](https://github.com/Arthur-Iorbalidi/Fun-Chat/)
-### Coffee house
-* [Deploy](https://arthur-iorbalidi.github.io/CoffeeHouse/coffee-house/html/index.html)
-
 ## Education
 
 * Univercity: Belarusian-Russian Univercity, Software engineering, 3rd year student
@@ -68,3 +42,35 @@ RS School JS/Front-end - [certificate](https://app.rs.school/certificate/617gxi8
 
 * English - B1
 * Russian - Native
+
+## Projects
+
+### Museum of Art
+* [Deploy](https://museum-of-art.netlify.app)
+* [Repository](https://github.com/Arthur-Iorbalidi/Museum-of-Art)
+### eCommerce-Application
+* [Deploy](https://code-crafters-ecommerce.netlify.app/)
+* [Repository](https://github.com/Arthur-Iorbalidi/eCommerce-Application)
+### English Puzzle
+* [Deploy](https://arthur-iorbalidi.github.io/EnglishPuzzle/rss-puzzle/dist/)
+* [Repository](https://github.com/Arthur-Iorbalidi/EnglishPuzzle)
+### Fun-Chat
+* [Repository](https://github.com/Arthur-Iorbalidi/Fun-Chat/)
+### Hangman game
+* [Deploy](https://arthur-iorbalidi.github.io/Hangman/html/index.html)
+* [Repository](https://github.com/Arthur-Iorbalidi/Hangman)
+### Nonograms game
+* [Deploy](https://arthur-iorbalidi.github.io/Nonograms/nonograms/html/index.html)
+* [Repository](https://github.com/Arthur-Iorbalidi/Nonograms)
+### Image-galery-Angular
+* [Deploy](https://image-galery-angular.netlify.app/)
+* [Repository](https://github.com/Arthur-Iorbalidi/Image-Galery-Angular)
+### Music player
+* [Deploy](https://arthur-iorbalidi.github.io/MusicPlayer/)
+* [Repository](https://github.com/Arthur-Iorbalidi/MusicPlayer)
+### Async-Race
+* [Repository](https://github.com/Arthur-Iorbalidi/Async-Race)
+### Coffee house
+* [Deploy](https://arthur-iorbalidi.github.io/CoffeeHouse/coffee-house/html/index.html)
+* [Repository](https://github.com/Arthur-Iorbalidi/CoffeeHouse)
+
